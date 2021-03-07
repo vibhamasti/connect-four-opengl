@@ -12,4 +12,4 @@ A two-player game of connect four using OpenGL and GLFW written in C
 
 <img src="./Screenshots/SS4_winning_board.png" alt="SS4_winning_board" style="zoom:35%;" />
 
-<img src="./Screenshots/SS5_player1_wins.png" alt="SS5_player1_wins" style="zoom:30%;" />
+<img src="./Screenshots/SS5_player1_wins.png" alt="SS5_player1_wins" style="zoom:25%;" />
